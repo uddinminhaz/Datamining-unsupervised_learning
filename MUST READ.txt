@@ -1,0 +1,18 @@
+supervised learning dataset :http://archive.ics.uci.edu/ml/datasets/Statlog+%28Vehicle+Silhouettes%29
+
+1.Using diferent Classifier
+2.Classifiers:logistic,j48,LMT,Naive Bayes,KNN
+3.Result in ROC Graph
+
+unsupervised learning dataset:
+
+Use hierarchical clustering to discover knowledge from the given dataset.
+
+What what we have included on the report?
+1.	Project Definition
+2.	Literature Survey
+3.	Methods
+4.	hierarchical cluster tree with cutting point
+5.	present New Finding
+
+Dataset : https://archive.ics.uci.edu/ml/datasets/Absenteeism+at+work#
